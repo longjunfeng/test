@@ -4,8 +4,8 @@
 	<groupId>com.javazyw</groupId>
 	<artifactId>zk-ui</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>zk-ui Maven Webapp</name>
+	<version>0.1</version>
+	<name>zk-ui</name>
 	<url>http://maven.apache.org</url>
 	
 	<properties>
