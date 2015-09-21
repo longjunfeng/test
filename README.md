@@ -10,7 +10,7 @@ zookeeper 地址与 登录的用户名密码 在conf.properties文件中
   auth=admin:admin    用户名:密码
 
 启动后访问地址： http://localhost:8080/zk-ui/toLogin  进行登录
-不想直接使用的可以下载war包部署
+不想直接使用的可以下载war包部署<war包太大 上传超时...>
 
 使用框架为：springmvc4.1.2 + curator2.8 
 zookeeper 测试版本为3.4.6
