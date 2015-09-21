@@ -12,6 +12,10 @@ auth=admin:admin    用户名:密码
 启动后访问地址： http://localhost:8080/zk-ui/toLogin  进行登录
 不想直接使用的可以下载war包部署
 
+使用框架为：springmvc4.1.2 + curator2.8 
+zookeeper 测试版本为3.4.6
+
+
 管理页面截图：
 
 ![输入图片说明](http://git.oschina.net/uploads/images/2015/0921/170902_406f9772_366428.png "在这里输入图片标题")
