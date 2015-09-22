@@ -6,10 +6,12 @@ zookeeper ui 管理页面
    节点树形菜单异步加载.
 
 zookeeper 地址与 登录的用户名密码 在conf.properties文件中
-1. connectString=192.168.1.34:2181
-2. auth=admin:admin    用户名:密码 
+###   connectString=192.168.1.34:2181   我的测试地址
+###auth=admin:admin    用户名:密码
+
 
 启动后访问地址： http://localhost:8080/zk-ui/toLogin  进行登录
+不想直接使用的可以下载war包部署<war包太大 上传超时...>
 
 使用框架为：springmvc4.1.2 + curator2.8 
 zookeeper 测试版本为3.4.6
