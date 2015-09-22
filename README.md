@@ -6,8 +6,8 @@ zookeeper ui 管理页面
    节点树形菜单异步加载.
 
 zookeeper 地址与 登录的用户名密码 在conf.properties文件中
-connectString=192.168.1.34:2181
-auth=admin:admin    用户名:密码 
+1. connectString=192.168.1.34:2181
+2. auth=admin:admin    用户名:密码 
 
 启动后访问地址： http://localhost:8080/zk-ui/toLogin  进行登录
 
